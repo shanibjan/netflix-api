@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/netflix-api/static/css/main.ff205a89.css",
+    "main.js": "/netflix-api/static/js/main.50587923.js",
+    "static/js/453.1c29ee80.chunk.js": "/netflix-api/static/js/453.1c29ee80.chunk.js",
+    "static/media/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_medium.jpeg": "/netflix-api/static/media/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_medium.69fc7f2fe6f398329231.jpeg",
+    "static/media/Gordita Bold.woff": "/netflix-api/static/media/Gordita Bold.162fc0c81c4880cb73f9.woff",
+    "static/media/Gordita Medium.woff": "/netflix-api/static/media/Gordita Medium.8667baffc43f0db04fc3.woff",
+    "static/media/Gordita Regular.woff": "/netflix-api/static/media/Gordita Regular.74727069bd5cbb1643f8.woff",
+    "static/media/Gordita Light.woff": "/netflix-api/static/media/Gordita Light.98d3eb0ae56b71131a4d.woff",
+    "index.html": "/netflix-api/index.html",
+    "main.ff205a89.css.map": "/netflix-api/static/css/main.ff205a89.css.map",
+    "main.50587923.js.map": "/netflix-api/static/js/main.50587923.js.map",
+    "453.1c29ee80.chunk.js.map": "/netflix-api/static/js/453.1c29ee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff205a89.css",
+    "static/js/main.50587923.js"
+  ]
+}
