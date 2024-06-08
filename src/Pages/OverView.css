@@ -1,0 +1,162 @@
+.overview{
+    font-family: 'Gordita Regular'; 
+    display: flex;
+    background-color: #050505;
+}
+.left-over{
+    color: white;
+    margin: 12% 4%;
+    width: 20%;
+    position: relative;
+}
+.head-over{
+    margin: 0%;
+    font-family: 'Gordita Bold';
+}
+.views-main{
+    display: flex;
+    justify-content: space-between;
+    width: 380px;
+    color: #898888;
+}
+.banner_buttons{
+    margin: 4% 0;
+    width: max-content;
+}
+.right-over{
+    background-image: url("https://wallpaperaccess.com/full/2703652.png");
+    width: 72%;
+    height: 790px;
+    background-size: cover;
+}
+.fade_bottom_over{
+    height: 49.4rem;
+    background-image: linear-gradient(270deg, #f40e0e00, rgba(37, 37, 37, .61), #000);
+    width: 85%;
+
+}
+.fade_bottom_over-utube{
+    height: 8.4rem;
+    background-image: linear-gradient(0deg, transparent, rgba(37, 37, 37, .61), #000);
+    position: absolute;
+    width: 100%;
+    display: none;
+    transition: 9s cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+.descriptions{
+    width: 45rem;
+    line-height: 1.6;
+    padding-top: 1rem;
+    font-size: 1rem;
+    font-family: 'Gordita Regular';
+    color: azure;
+}
+.no-res{
+    color: white;
+    font-family: 'circular';
+    margin: 10% 36%;
+    width: 28%;
+}
+.swal-button {
+    background-color: #D91822;
+}
+.swal-button:hover{
+    background-color: #504747;
+}
+.swal-overlay--show-modal .swal-modal {
+    background-color: black;
+    border: 1px solid white;
+}
+.swal-icon--success:before {
+    background-color: black;
+}
+
+
+
+.swal-text:first-child {
+    margin-top: 75px;
+    font-family: 'Gordita Regular';
+    font-size: 18px;
+}
+.swal-text {
+    font-size: 16px;
+    position: relative;
+    float: none;
+    line-height: normal;
+    vertical-align: top;
+    text-align: left;
+    display: inline-block;
+    margin: 0;
+    padding: 0 10px;
+    font-weight: 400;
+    /* color: rgba(0, 0, 0, .64); */
+    max-width: calc(100% - 20px);
+    overflow-wrap: break-word;
+    box-sizing: border-box;
+    color: azure;
+    font-family: 'Gordita Regular';
+}
+.swal-title:not(:last-child) {
+    color: azure;
+    font-family: 'Gordita Regular';
+    font-size: 22px;
+}
+.uT{
+    display: none;
+    position: relative;
+}
+.utube-cancel{
+    display: none;
+    position: absolute;
+    color: azure;
+    right: 65px;
+    font-size: 39px;
+    top: 2pc;
+    cursor: pointer;
+}
+.utube-cancel:hover{
+    color: #D91822;
+}
+.all-utube-sub{
+    
+    display: inline-grid;
+    margin: 47px 24px;
+    
+}
+.all-utube-sub img{
+    width: 100%;
+}
+.thumb-name{
+    color: azure;
+    font-family: 'Gordita Regular';
+    font-size: 16px;
+    text-align: center;
+    margin: 7%;
+}
+.utube-play{
+    display: none;
+    color: azure;
+    position: absolute;
+    left: 46%;
+    top: 30%;
+    font-size: 40px;
+    cursor: pointer;
+  
+}
+.all-utube-image{
+    position: relative;
+    width: 400px;
+    
+}
+.related-vids{
+    display: none;
+    color: azure;
+    font-family: 'Gordita Bold';
+    font-size: 28px;
+    margin-top: 4%;
+}
+.all-utube{
+    display: flex;
+    overflow-x: scroll;
+}

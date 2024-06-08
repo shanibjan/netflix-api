@@ -1,0 +1,47 @@
+.sign-up-main{
+    background:linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1)), url('../../Images/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_medium.jpeg');
+    height: 50pc;
+    position: relative;
+}
+.input-signup{
+    display: grid;
+    justify-content: center;
+    background: rgb(0, 0, 0, .7);
+    width: 40%;
+    margin: 0 auto;
+    padding: 6% 0;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 113px;
+    border-radius: 6px;
+
+}
+.input-signup input{
+    border: 1px solid #bcb2b3;
+    height: 60px;
+    width: 290px;
+    margin-right: 2%;
+    border-radius: 6px;
+    color: white;
+    font-size: 19px;
+    font-family: 'Gordita Regular';
+    outline: none;
+    background: rgb(0, 0, 0, .3);
+    padding: 0 26px;
+    margin-bottom: 15%;
+}
+.get-signup{
+    background-color: #D91822;
+    border: none;
+    height: 60px;
+    width: 220px;
+    color: white;
+    font-family: 'Gordita Bold';
+    border-radius: 6px;
+    font-size: 23px;
+    margin: 0 auto;
+}
+.form-register{
+    display: contents;
+}

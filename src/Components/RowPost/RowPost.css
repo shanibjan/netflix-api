@@ -1,0 +1,64 @@
+
+.row{
+    margin-left: 20px;
+    color: #fff;
+    position: relative;
+    top: -101px;
+}
+
+.posters{
+    display: flex;
+    padding:0 20px;
+    overflow-x: scroll;
+    overflow-y:hidden ;
+    scroll-behavior: smooth;
+}
+
+.posters::-webkit-scrollbar{
+    display: none;
+}
+
+.jaa{
+    max-height: 321px;
+    margin-right: 10px; 
+    position: relative;
+}
+.heart{
+    position: absolute;
+    right: 20px;
+    top: 9px;
+    font-size: 25px;
+    color: #D91822;
+    z-index: 1;
+}
+
+.poster{
+    max-height: 250px;
+    margin-right: 10px;
+
+}
+
+.smallPoster{
+    max-height: 321px;
+    margin-right: 15px;
+
+}
+
+
+.heading{
+    font-family: 'Gordita Regular';
+    font-size: 17px;
+    margin: 5% 0;
+}
+.small-heading{
+    font-family: 'Gordita Regular';
+    font-size: 13px;
+}
+.title-card{
+    text-align: left;
+    margin: 1% 2%;
+    font-size: 25px;
+}
+.poster-main{
+    margin: 2% 0;
+}

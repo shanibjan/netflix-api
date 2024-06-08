@@ -1,0 +1,29 @@
+.favourite-show-main{
+    margin: 12% 3%;
+}
+.fav-show-sub{
+    width: 18%;
+    display: inline-grid;
+    margin: 0% 1%;
+    position: relative;
+}
+.fav-show-poster{
+    max-height: 368px;
+}
+.fav-show-heading{
+    color: azure;
+    font-family: 'Gordita Regular';
+    font-size: 18px;
+    text-align: center;
+}
+.remove-cross{
+    position: absolute;
+    right: 12px;
+    top: 11px;
+    color: azure;
+    display: none;
+    cursor: pointer;
+}
+.remove-cross:hover{
+    color: #D91822;
+}

@@ -1,0 +1,69 @@
+.login{
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../Images/IN-en-20240408-popsignuptwoweeks-perspective_alpha_website_medium.jpeg');
+    height: 50pc;
+    position: relative;
+}
+.logo-login{
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 9%;
+    position: absolute;
+    width: 82%;
+    align-items: center;
+}
+.logo-image{
+    width: 165px;
+}
+.fade_bottom-login{
+    height: 12.4rem;
+    background-image: linear-gradient(0deg,transparent,rgba(37,37,37,.61),#000);
+}
+.sign-up{
+    background-color: #D91822;
+    border: none;
+    height: 35px;
+    width: 80px;
+    color: white;
+    font-family: 'Gordita Bold';
+    border-radius: 6px;
+}
+.details-login{
+    color: white;
+    text-align: center;
+}
+.main-head{
+    font-size: xxx-large;
+    font-family: 'Gordita Bold';
+}
+.second-head-login,.third-head-login{
+    font-family: 'Gordita Regular';
+}
+.input-login{
+    display: flex;
+    justify-content: center;
+    margin: 7% 0;
+}
+.input-login input{
+    border: 1px solid #D91822;
+    height: 60px;
+    width: 290px;
+    margin-right: 2%;
+    border-radius: 6px;
+    color: white;
+    font-size: 19px;
+    font-family: 'Gordita Regular';
+    outline: none;
+    background: rgb(0, 0, 0, .3);
+    padding: 0 26px;
+    
+}
+.get-started{
+    background-color: #D91822;
+    border: none;
+    height: 60px;
+    width: 220px;
+    color: white;
+    font-family: 'Gordita Bold';
+    border-radius: 6px;
+    font-size: 23px;
+}
